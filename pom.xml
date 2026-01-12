@@ -11,8 +11,9 @@
 
     <modules>
         <module>analyzer-core</module>
-        <module>analyzer-maven-plugin</module>
         <module>analyzer-cli</module>
+        <module>analyzer-maven-plugin</module>
+        <module>analyzer-gradle-plugin</module>
     </modules>
 
     <properties>
